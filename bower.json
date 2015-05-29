@@ -1,0 +1,15 @@
+{
+  "name": "d-validator",
+  "private": true,
+  "version": "0.0.1",
+  "author": {
+    "name": "Affiliates Agencies - Combined Products - Front End Team",
+    "email": "affiliates-cp@googlegroups.com"
+  },
+  "dependencies": {
+    "angular": "1.2.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.4"
+  }
+}
